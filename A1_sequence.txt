@@ -1,0 +1,32 @@
+SEQUENCE
+{
+    OBJECT IDENTIFIER
+    id-tc2 6-gost-3410-2012-25 6-paramSetB
+    SEQUENCE
+    {
+        INTEGER
+        00 FF FF FF FF FF FF FF FF FF FF FF FF FF
+        FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+        97
+        INTEGER
+        00 FF FF FF FF FF FF FF FF FF FF FF FF FF
+        FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+        94
+        INTEGER
+        A6
+        INTEGER
+        00 FF FF FF FF FF FF FF FF FF FF FF FF FF
+        FF 6C 61 10 70 99 5A Dl 00 45 84 IB 09 B7
+        93
+        INTEGER
+        00 FF FF FF FF FF FF FF FF FF FF FF FF FF
+        FF 6C 61 10 70 99 5A Dl 00 45 84 IB 09 B7
+        93
+        INTEGER
+        01
+        INTEGER
+        00 8D 91 E4 71 E0 98 9C DA 27 DF 50 5A 45
+        76 35 29 4F 2D DF 23 E3 B1 22 AC C9 9C 9E
+        14
+    }
+}
